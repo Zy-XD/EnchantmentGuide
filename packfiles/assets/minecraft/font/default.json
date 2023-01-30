@@ -1,0 +1,18 @@
+{
+    "providers": [
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/enchant_guide_left.png",
+        "ascent": 5,
+        "height": 147,
+        "chars": ["\uEf03"]
+      },
+      {
+        "type": "bitmap",
+        "file": "minecraft:gui/container/marker.png",
+        "ascent": -2147483648,
+        "height": -95,
+        "chars": ["\uEf01"]
+      }
+    ]
+}
